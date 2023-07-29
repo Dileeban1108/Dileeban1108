@@ -1,7 +1,7 @@
 <h1 align="center"> ꧁༺ 𝓗𝓮𝓵𝓵𝓸 👋,𝓘'𝓶 𝓓𝓲𝓵𝓮𝓮𝓫𝓪𝓷 ༻꧂</h1>
 <h2>𝐀 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞..𝐀 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭..𝐓𝐡𝐞 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫</h2>
 <h2 align="center">𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖒𝖞 𝖌𝖎𝖙𝖍𝖚𝖇 𝖆𝖈𝖈𝖔𝖚𝖓𝖙 </h2>
-<img align="center" alt="Coding" width="41000"src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" >
+<img align="center" alt="Coding" width="41000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileeban&label=Profile%20views&color=0e75b6&style=flat" alt="dileeban" /> </p>
 
