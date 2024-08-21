@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **nextJs , cybersecurity ,flutter , dart**
 
-- 👨‍💻 All of my projects are available at [https://my-personal-website-sekaradileeban.netlify.app](https://my-personal-website-sekaradileeban.netlify.app)
+- 👨‍💻 All of my projects are available at [https://dileebansekara2001.netlify.app/](https://dileebansekara2001.netlify.app/)
 
 - 💬 Ask me about **MERN stack ,python**
 
