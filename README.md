@@ -1,18 +1,18 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm SEKARA DILEEBAN</h1>
-<h3 align="center">A passionate Fullstack developer and Cybersecurity Enthusiast from Srilanka</h3>
+<h3 align="center">A passionate Fullstack developer and Devops Enthusiast from Srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileeban1108&label=Profile%20views&color=0e75b6&style=flat" alt="dileeban1108" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dileeban1108" alt="dileeban1108" /></a> </p>
 
-- 🌱 I’m currently learning **nextJs , cybersecurity ,flutter , dart**
+- 🌱 I’m currently learning **nextJs, nestJs ,flutter , dart**
 
 - 👨‍💻 All of my projects are available at [https://dileebansekara2001.netlify.app/](https://dileebansekara2001.netlify.app/)
 
-- 💬 Ask me about **MERN stack ,python**
+- 💬 Ask me about **MERN stack ,MEAN stack, Java, JavaScript, Python**
 
-- 📫 How to reach me **sekara.dileeban@gmail.com**
+- 📫 How to reach me **dileeban.sekara@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
