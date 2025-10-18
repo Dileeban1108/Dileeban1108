@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **nextJs, nestJs ,flutter , dart**
 
-- 👨‍💻 All of my projects are available at [https://dileebansekara2001.netlify.app/](https://dileebansekara2001.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dileebansekara2001.netlify.app/](https://dileebansekara2001.vercel.app/)
 
 - 💬 Ask me about **MERN stack ,MEAN stack, Java, JavaScript, Python**
 
